@@ -1,9 +1,3 @@
-Here’s a **complete** `README.md` you can drop into the repo.
-It’s written for clarity, searchability, and reproducibility, and it includes all the context someone would need to understand, verify, and use your build.
-
----
-
-```markdown
 # DeepSpeed 0.17.4 — Windows x86_64 (Python 3.12, CUDA 12.9)
 
 This repository provides a **prebuilt DeepSpeed 0.17.4 wheel** for **Windows 64-bit**, built against:
